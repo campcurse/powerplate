@@ -1,2 +1,2 @@
 # powerplate
-Power Blade by CampCurse 
+PowerPlate by CampCurse 
